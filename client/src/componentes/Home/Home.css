@@ -1,0 +1,159 @@
+.container_home {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    background-image: url('../../images/Fondos/homee.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%;
+    height:100vh;
+    overflow-y: scroll;
+  }
+  
+  .img {
+    justify-content: center;
+    align-self: center;
+    width: 400px;
+    height: 200px;
+    backdrop-filter: blur(10px);
+    border-radius: 50px;
+    margin-top: 2vh;
+    margin-bottom: 5vh ;
+  }
+  
+  .create_button {
+    margin-bottom: 3vh;
+  }
+  
+  .selectors {
+      background-color: #2c4592 ;
+      border-radius: 20px;
+  }
+  
+  .selector {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-right: 1vh;
+    margin-left: 5vh;
+    font-size:15px;
+    font-family: cursive;
+    color: #0d2549  ;
+    padding: 5px;
+    background-color: #e5e5e5;
+    border: solid 3px rgb(125, 246, 151) ;
+    border-style: groove;
+    border-radius: 10px; 
+    height: fit-content;
+    width: 260px;
+  }
+  
+  .selector:hover {
+    background-color: #2c4592;
+    color:  #eeb913;
+    border:  solid 3px black;
+  }
+  
+  .allPokemon_button{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px 10px 5px 10px;
+    background-color: #2c4592;
+    border-radius: 10px;
+    border: solid 2px black;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(125, 246, 151);
+    box-shadow: 0 0 30px #222;
+  }
+  
+  .allPokemon_button:hover {
+    background-color: #eeb913;
+    color: black;
+  }
+  
+  .pokemonsCards{
+    display: inline-block;
+  }
+  
+  .pokemonsCards a {
+    text-decoration: none;
+    color: #2c4592;
+  }
+  
+  .error {
+    justify-content: center;
+    align-self: center;
+    border: #222 solid 3px;
+    margin: 2vh;
+    border-radius: 20px;
+    backdrop-filter: blur(7px);
+    width: 600px;
+  }
+  
+  .errorB {
+    align-content: center;
+    justify-content: center;
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8a0d0d;
+    width: fit-content;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: cursive;
+    color: #e5e5e5;
+    border-radius: 10px;
+    border: solid 2px transparent
+  }
+  
+  .errorB:hover {
+    background-color: #2c4592;
+    color:  #eeb913;
+    border:  solid 3px black;
+  }
+  
+  .img_error {
+    margin-left: 50%;
+    margin-right: 50%;
+    height: 200px;
+    width: 400px;
+    margin-top: 15px;
+    margin-left: 10px;
+  }
+  
+  @media only screen and (max-width: 1000px){
+    .pokemonsCards {
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    }
+  
+  }
+  
+  @media only screen and (max-width: 768px){
+    
+    .create_button{
+      margin-bottom: 15px;
+      margin-right: auto;
+      margin-left: auto;
+      background: #e5e5e5;
+    }
+    .img{
+      transform: scale(90%);
+    }
+  
+  }
+  @media only screen and (max-width: 375px){
+    .img{
+      transform: scale(75%);
+    }
+  
+  }
+  

@@ -1,0 +1,44 @@
+.landing{
+    display: flex;
+    background-image:url('../../images/Fondos/pokeball.jpg') ;
+    background-color: #1d7c94;
+    background-position: center;
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.buttonLanding{
+    margin-top: 197px;
+    margin-left: 727px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: solid 2px black;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+    background-color: rgb(168, 171, 168);
+    box-shadow: 0 0 50px 30px rgb(222, 131, 33);
+}
+
+.buttonLanding:hover{
+    background-color:  #d2403d   ;
+    color: whitesmoke;
+    border: solid 3px;
+}
+
+
+@media only screen and (max-width: 900px){
+    .buttonLanding{
+        margin-top: 230px;
+        margin-left: 347px;
+        width: 50px;
+        height: 50px;
+        font-size: 10px;
+
+    }
+}
+
