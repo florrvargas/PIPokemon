@@ -1,4 +1,5 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+![FULL STACK DEVELOPER (1)](https://user-images.githubusercontent.com/107566606/205788398-6905d3e5-faaa-48cc-8cdb-23239a8a02c9.png)
+
 
 # Individual Project - Henry Pokemon
 
