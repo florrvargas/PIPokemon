@@ -1,4 +1,4 @@
-![FULL STACK DEVELOPER (1)](https://user-images.githubusercontent.com/107566606/205788398-6905d3e5-faaa-48cc-8cdb-23239a8a02c9.png)
+![BANNER GitHub](https://user-images.githubusercontent.com/107566606/205789090-091ca1eb-73b9-4c7c-8b7e-70c9beb93167.png)
 
 
 # Individual Project - Henry Pokemon
