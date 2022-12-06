@@ -23,3 +23,8 @@ La idea general era crear una aplicación en la cual se puedan ver los distintos
 
 Consume datos de la API externa a través de un back-end desarrollado en #Node.js usando #Express. La base de datos fue creada usando #postgreSQL y #Sequelize. El front-end se desarrollo con #React y #Redux. Los estilos se dieron usando #CSS, sin usar bibliotecas.
 
+
+<img src="https://user-images.githubusercontent.com/107566606/205784861-18ae6fd0-468d-4571-a1cc-a6fa8383fcc2.png" width="60%" height="60%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205784869-75b7b203-b853-491d-92e7-fb542f289cbb.png" width="30%" height="30%"  />         <img src="https://user-images.githubusercontent.com/107566606/205784886-739a0c40-be6b-492d-8eb7-1abda2bf3450.png" width="40%" height="40%"  />
+<img src="https://user-images.githubusercontent.com/107566606/205784896-77486446-78ef-4578-b743-f4491ed8b5e5.png" width="40%" height="40%"  />
+
