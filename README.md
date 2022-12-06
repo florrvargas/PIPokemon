@@ -27,10 +27,10 @@ Consume datos de la API externa a través de un back-end desarrollado en #Node.j
 
  Una vez clonada la carpeta se deben ejecutar los siguientes comandos:
 
-   ### npm install en la carpeta "api".
-   ### npm install en la carpeta  "client".
-   ### npm start en la carpeta "api".
-   ### npm start en la carpeta  "client".
+  - npm install en la carpeta "api".
+  - npm install en la carpeta  "client".
+  - npm start en la carpeta "api".
+  - npm start en la carpeta  "client".
    
 
 
