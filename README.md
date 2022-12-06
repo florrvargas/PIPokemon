@@ -26,7 +26,9 @@ Consume datos de la API externa a través de un back-end desarrollado en #Node.j
 
 ## PASOS PARA LEVANTAR EL PROYECTO:
 
- Una vez clonada la carpeta se deben ejecutar los siguientes comandos:
+1- Crear una DATABASE con el nombre de "pokemon".
+2- Clonar el repositorio
+3- Una vez clonada la carpeta se deben ejecutar los siguientes comandos:
 
   - npm install en la carpeta "api".
   - npm install en la carpeta  "client".
