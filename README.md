@@ -1,4 +1,4 @@
-![BANNER GitHub](https://user-images.githubusercontent.com/107566606/205789090-091ca1eb-73b9-4c7c-8b7e-70c9beb93167.png)
+![BANNER GitHub](https://user-images.githubusercontent.com/107566606/205789405-74f56184-0fda-4e43-88dc-8a3e3e92b82f.png)
 
 
 # Individual Project - Henry Pokemon
